@@ -19,5 +19,4 @@ param aiFoundryStorageAccountConfiguration = {
 param webServerFarmConfiguration = {
   skuCapacity: 1
   skuName: 'B2'
-  
 }

@@ -131,7 +131,7 @@ param aiFoundryAiServicesConfiguration aiServicesConfigurationType = {
   sku: 'S0'
   deployments: null //Default value set on module configuration
   subnetResourceId: null //Default value set on module configuration
-  modelCapacity: 140
+  modelCapacity: 20
 }
 
 @description('Optional. The configuration to apply for the AI Foundry Storage Account resource.')
